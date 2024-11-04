@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 
 ---
 
-[![Website Badge](https://img.shields.io/badge/Website-IshaniArya-blue)](https://ishani-arya.netlify.app/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-IshaniArya-blue)](https://linkedin.com/in/ishani-arya) [![GitHub Badge](https://img.shields.io/badge/GitHub-ishani2202-blue)](https://github.com/ishani2202)
+[![Website Badge](https://img.shields.io/badge/Website-IshaniArya-blue)](https://ishani-arya.netlify.app/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-IshaniArya-blue)](https://linkedin.com/in/ishani-arya) [![GitHub Badge](https://img.shields.io/badge/Behance-ishani2202-blue)]([https://www.behance.net/ishaniarya21])
 
 ---
 
