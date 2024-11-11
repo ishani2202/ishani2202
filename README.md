@@ -91,7 +91,6 @@ A comprehensive **data dashboard** offering real-time insights into COVID-19 tre
 ## 🏆 Extracurriculars & Honors
 
 - **Millennium Fellowship 2021** by United Nations Academic Impact
-- **Champion on the Court:** Winner of 2 AITA Tennis Tournaments; former Captain of Thapar University’s Lawn Tennis Team
 - **Head of Administration** for IAESTE, TIET, India Chapter
 - **Top 5 Finalist** in Microsoft Learn Student Chapter Hackathon at Thapar University
 
