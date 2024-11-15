@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 
 ### Graduate Research Assistant: Financial Data Science | Johns Hopkins University  
 *November 2024 – Present | Baltimore, USA*  
+Building a machine learning model in Stata and Python for derivatives data analysis, applying statistical and predictive modeling techniques under Dr. Tetiana Davydiuk to gain insights into market risk and behavior
 
 
 ---
