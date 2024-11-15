@@ -26,6 +26,12 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 
 ## 💼 Experience
 
+### Graduate Research Assistant: Financial Data Science | Johns Hopkins University  
+*November 2024 – Present | Baltimore, USA*  
+
+
+---
+
 ### Data Science Trainee | LG Electronics  
 *February 2024 – July 2024 | Noida, India*  
 Pioneered **customer insight-driven data pipelines** and enhanced product strategies for one of the world’s leading electronics giants.
