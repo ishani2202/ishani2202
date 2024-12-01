@@ -28,7 +28,10 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 
 ### Graduate Research Assistant: Financial Data Science | Johns Hopkins University  
 *November 2024 – Present | Baltimore, USA*  
-Building a machine learning model in Stata and Python for derivatives data analysis, applying statistical and predictive modeling techniques under Dr. Tetiana Davydiuk to gain insights into market risk and behavior
+Developed robust **algorithms for parsing and analyzing SEC filing data**, utilizing Python and Stata to transform complex financial information and apply **predictive modeling** for enhanced analytical accuracy.
+
+- **Optimized Financial Data Extraction** Developed financial data parsing algorithms using regex and data cleaning techniques to process unstructured data from SEC filings of BDCs
+- **Built pipeline for predictive modelling** Applied Python and Stata to create a robust pipeline for validating and transforming complex financial datasets. Leveraged predictive modeling to forecast trends and generate actionable insights, boosting data accuracy for thorough downstream analysis
 
 
 ---
