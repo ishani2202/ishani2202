@@ -70,18 +70,6 @@ An innovative **AI-powered solution for environmental management**, featuring a 
 - **Smart Waste Management:** Leveraged TensorFlow and ResNet on Raspberry Pi to accurately distinguish between biodegradable and non-biodegradable waste, achieving 93.07% classification accuracy.
 - **Impact in Action:** This prototype advances environmental sustainability by improving waste segregation processes in water bodies.
 
-### Image Caption Generator  
-Explore my **deep learning-powered** image captioning project on GitHub, where I combined CNNs and LSTMs to create a custom captioning model.
-
-- **Dynamic Captioning:** Developed an end-to-end image captioning model capable of real-time caption generation.  
-- [View Project](https://github.com/ishani2202/ImageCaptionGenerator)
-
-### Covid-19 Dashboard  
-A comprehensive **data dashboard** offering real-time insights into COVID-19 trends and statistics.
-
-- **Interactive Visualizations:** Built with Plotly and Dash, providing intuitive trend analysis and data exploration features.  
-- [View Project](https://github.com/ishani2202/Covid19_Dashboard)
-
 ---
 
 ## 🛠️ Technical Skills
