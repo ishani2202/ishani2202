@@ -65,10 +65,26 @@ Harnessed the power of big data to **uncover engagement patterns** and deliver d
 ## 🔬 Research Projects
 
 ### Autonomous Waste Segregation Boat  
-An innovative **AI-powered solution for environmental management**, featuring a patented system for waste classification.
+An innovative **AI-powered solution for environmental management**, featuring a patented system for waste classification.  
+- **Smart Waste Management:** Leveraged TensorFlow and ResNet on Raspberry Pi to accurately distinguish between biodegradable and non-biodegradable waste, achieving 93.07% classification accuracy.  
+- **Impact in Action:** This prototype advances environmental sustainability by improving waste segregation processes in water bodies.  
 
-- **Smart Waste Management:** Leveraged TensorFlow and ResNet on Raspberry Pi to accurately distinguish between biodegradable and non-biodegradable waste, achieving 93.07% classification accuracy.
-- **Impact in Action:** This prototype advances environmental sustainability by improving waste segregation processes in water bodies.
+### MelanoViT | [GitHub](https://github.com/ishani2202/Melanoma-Diagnosis-ViT-Metadata)  
+A robust **melanoma classification framework** leveraging state-of-the-art Vision Transformers (ViT) and DinoV2.  
+- **Breakthrough Performance:** Achieved 99.03% accuracy with metadata integration, surpassing traditional CNN-based models.  
+- **Advanced Techniques:** Addressed class imbalance with weighted loss functions, enhanced generalization through data augmentation (hair removal, geometric transformations).  
+
+### Pandemic Tracker | [GitHub](https://github.com/ishani2202/Covid19_Dashboard) | [Interactive Website](https://covid19dashboardx.streamlit.app/)  
+A comprehensive **COVID-19 global dashboard** designed for dynamic data exploration.  
+- **Time-Series Analysis:** Utilized Python, Pandas, and Plotly for rolling averages and trend visualizations.  
+- **Deployed Application:** Interactive Streamlit app featuring choropleths, bar graphs, line plots, and filters to enable detailed insights into pandemic trends.  
+
+### EchoTranslate | [GitHub](https://github.com/ishani2202/EchoTranslate)  
+A **Transformer-based pipeline** for ASR and multilingual translation targeting medical applications.  
+- **Domain-Specific Excellence:** Preprocessed and fine-tuned on a medical corpus, achieving a 5.8% BLEU score improvement and 12.5% WER reduction.  
+- **Advanced Features:** Incorporated Torchaudio and Librosa for spectrogram extraction, signal denoising, and preprocessing in doctor-patient conversations.
+
+
 
 ---
 
