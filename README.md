@@ -23,42 +23,42 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
   Relevant Courses: Deep Learning, Probability and Statistics, Algorithm Design
 
 ---
-
 ## 💼 Experience
 
-### Graduate Research Assistant: Financial Data Science | Johns Hopkins University  
+### Research Assistant: Financial Data Science | Johns Hopkins University  
 *November 2024 – Present | Baltimore, USA*  
-Developed robust **algorithms for parsing and analyzing SEC filing data**, utilizing Python and Stata to transform complex financial information and apply **predictive modeling** for enhanced analytical accuracy.
+Engineered an **ETL pipeline** for processing unstructured SEC filings (10-K & 10-Q) of BDCs, applying advanced data science techniques for financial forecasting.  
 
-- **Optimized Financial Data Extraction** Developed financial data parsing algorithms using regex and data cleaning techniques to process unstructured data from SEC filings of BDCs
-- **Built pipeline for predictive modelling** Applied Python and Stata to create a robust pipeline for validating and transforming complex financial datasets. Leveraged predictive modeling to forecast trends and generate actionable insights, boosting data accuracy for thorough downstream analysis
-
+- **Streamlined Data Analysis:** Designed Python and Stata workflows for data wrangling, feature engineering, and regex classification to convert financial data into machine-readable formats.  
+- **Predictive Modeling:** Prepared datasets for financial time-series forecasting, leveraging ARIMA models for trend prediction and actionable insights.  
 
 ---
 
 ### Data Science Trainee | LG Electronics  
 *February 2024 – July 2024 | Noida, India*  
-Pioneered **customer insight-driven data pipelines** and enhanced product strategies for one of the world’s leading electronics giants.
+Designed and implemented **customer insight pipelines** to enhance product development strategies.  
 
-- **Voice of Customer Analysis:** Built dynamic web scraping solutions using Selenium and Beautiful Soup to extract customer feedback from major platforms.
-- **NLP Mastery in Action:** Applied BERT fine-tuning for sentiment analysis and LDA for topic modeling, transforming unstructured data into actionable insights that elevated customer satisfaction.
-
----
-
-### Machine Learning Intern | Videolytical Systems  
-*August 2023 – September 2023 | Remote*  
-Elevated **intrusion detection accuracy** with a cutting-edge video analytics system, driving enhanced security protocols.
-
-- **YOLO & Optical Flow in Sync:** Implemented a hybrid approach using YOLO for object detection and Optical Flow for motion tracking, achieving a 30% improvement in detection precision for real-time systems.
+- **Web Scraping Expertise:** Built web scraping solutions using Selenium and Beautiful Soup to extract Voice of Customer data from platforms like YouTube and Flipkart.  
+- **NLP Innovations:** Fine-tuned BERT for sentiment analysis and utilized Latent Dirichlet Allocation (LDA) for topic modeling, transforming customer feedback into actionable insights.  
 
 ---
 
-### Data Science Intern | Reliance Jio  
-*June 2023 – July 2023 | Mumbai, India*  
-Harnessed the power of big data to **uncover engagement patterns** and deliver data-driven marketing strategies for India’s top telecom provider.
+### Big Data Intern | Reliance Jio  
+*June 2023 – August 2023 | Mumbai, India*  
+Harnessed big data technologies to **optimize marketing strategies** for India’s leading telecom provider.  
 
-- **Scalable Data Processing:** Created a Spark-based ETL pipeline that processed over a million tweets and integrated MongoDB for fast, efficient storage.
-- **Visual Storytelling with Tableau:** Developed compelling visualizations that informed marketing strategies, boosting campaign effectiveness by 15%.
+- **ETL Pipeline Development:** Designed a scalable pipeline using Apache Spark to process over 1M tweets, integrating MongoDB for efficient storage.  
+- **Predictive Analytics:** Applied Naive Bayes for sentiment classification and SVM for engagement prediction, visualizing results in Tableau to boost campaign effectiveness by 15%.  
+
+---
+
+### Machine Learning Researcher | Thapar University  
+*June 2022 – May 2023 | Patiala, India*  
+Pioneered a **deep learning-based waste classification system**, contributing to environmental sustainability.  
+
+- **Innovative Edge Processing:** Developed a waste classification boat using ResNet and TensorFlow, achieving 93.07% accuracy in real-time classification of biodegradable vs. non-biodegradable waste.  
+- **Deployment Ready:** Deployed the system on Raspberry Pi for efficient edge processing with live camera input.
+
 
 ---
 
