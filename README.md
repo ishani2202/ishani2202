@@ -34,6 +34,15 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 
 ---
 
+
+### Research Assistant: Data Science | Johns Hopkins University | Baltimore, USA  
+*November 2024 – Present*  
+- Build an end-to-end NLP focused ETL pipeline in Python & Stata for analyzing unstructured SEC filings (10-K & 10-Q) from BDCs.  
+- Transformed 2M+ rows of financial text data into a machine-readable format through wrangling, feature engineering, and regex classification, predictive modeling and financial time-series forecasting using ARIMA.
+
+---
+
+
 ### Data Science Trainee | LG Electronics | Noida, India  
 *February 2024 – July 2024*  
 - Developed scalable scraping pipelines with Selenium and Beautiful Soup to collect Voice of Customer data from YouTube and Flipkart, while integrating fine-tuned BERT for aspect-level sentiment classification and LDA to extract 15+ key customer themes.  
