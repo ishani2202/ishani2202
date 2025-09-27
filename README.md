@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 ## 🎓 Education
 
 - **Johns Hopkins University**  
-  *Master of Science in Data Science (Expected: 2026)*  
+  *Master of Science in Data Science (2024 - Present)*  
   Relevant Courses: Advanced Data Science, Machine Translation, ML for Healthcare
 
 - **LM Thapar School of Management**  
