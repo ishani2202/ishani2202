@@ -25,39 +25,26 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 ---
 ## 💼 Experience
 
-### Research Assistant: Financial Data Science | Johns Hopkins University  
-*November 2024 – Present | Baltimore, USA*  
-Engineered an **ETL pipeline** for processing unstructured SEC filings (10-K & 10-Q) of BDCs, applying advanced data science techniques for financial forecasting.  
+-
 
-- **Streamlined Data Analysis:** Designed Python and Stata workflows for data wrangling, feature engineering, and regex classification to convert financial data into machine-readable formats.  
-- **Predictive Modeling:** Prepared datasets for financial time-series forecasting, leveraging ARIMA models for trend prediction and actionable insights.  
-
----
-
-### Data Science Trainee | LG Electronics  
-*February 2024 – July 2024 | Noida, India*  
-Designed and implemented **customer insight pipelines** to enhance product development strategies.  
-
-- **Web Scraping Expertise:** Built web scraping solutions using Selenium and Beautiful Soup to extract Voice of Customer data from platforms like YouTube and Flipkart.  
-- **NLP Innovations:** Fine-tuned BERT for sentiment analysis and utilized Latent Dirichlet Allocation (LDA) for topic modeling, transforming customer feedback into actionable insights.  
+### ML Intern (Business Systems) | Alo | San Francisco, USA  
+*June 2025 – August 2025*  
+- Designed and automated large-scale ML pipelines (Python, SQL, Spark, BigQuery) for transaction reconciliation, including classification and ranking models to detect refund/remittance mismatches. Automated nightly jobs, saving ~2 days/month at close.  
+- Developed and containerized (Docker, Kubernetes) a Retrieval-Augmented Generation (RAG) model over ERP source code, integrating it with CI/CD workflows for scalable deployment and faster debugging of legacy Progress 4GL logic.
 
 ---
 
-### Big Data Intern | Reliance Jio  
-*June 2023 – August 2023 | Mumbai, India*  
-Harnessed big data technologies to **optimize marketing strategies** for India’s leading telecom provider.  
-
-- **ETL Pipeline Development:** Designed a scalable pipeline using Apache Spark to process over 1M tweets, integrating MongoDB for efficient storage.  
-- **Predictive Analytics:** Applied Naive Bayes for sentiment classification and SVM for engagement prediction, visualizing results in Tableau to boost campaign effectiveness by 15%.  
+### Data Science Trainee | LG Electronics | Noida, India  
+*February 2024 – July 2024*  
+- Developed scalable scraping pipelines with Selenium and Beautiful Soup to collect Voice of Customer data from YouTube and Flipkart, while integrating fine-tuned BERT for aspect-level sentiment classification and LDA to extract 15+ key customer themes.  
+- Leveraged a pretrained LLM (FLAN-T5) to generate concise summaries from the processed data, reducing manual analysis effort by ~40% and directly leading to 3+ product design improvements.
 
 ---
 
-### Machine Learning Researcher | Thapar University  
-*June 2022 – May 2023 | Patiala, India*  
-Pioneered a **deep learning-based waste classification system**, contributing to environmental sustainability.  
-
-- **Innovative Edge Processing:** Developed a waste classification boat using ResNet and TensorFlow, achieving 93.07% accuracy in real-time classification of biodegradable vs. non-biodegradable waste.  
-- **Deployment Ready:** Deployed the system on Raspberry Pi for efficient edge processing with live camera input.
+### Big Data Intern | Reliance Jio | Mumbai, India  
+*June 2023 – August 2023*  
+- Engineered Spark ETL pipelines to process 1M+ tweets with optimized data warehousing, enabling real-time ML training workflows and leveraging GPT-3.5 Turbo for sentiment and engagement prediction.  
+- Gained expertise in Python, SQL, Hadoop, Spark through training program.
 
 
 ---
