@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 ---
 ## 💼 Experience
 
--
+
 
 ### ML Intern (Business Systems) | Alo | San Francisco, USA  
 *June 2025 – August 2025*  
