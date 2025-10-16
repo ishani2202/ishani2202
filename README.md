@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machine Learning Innovator** with a strong foundation in Data Science, complemented by a love for finance & healthcare research. Here, you’ll find my work at the intersection of **AI, machine learning, and analytics**.
 
-> **TL;DR:** Currently collaborating with the **AWS AI/ML** team on cloud-scale automated pipelines and scalable model deployments. Previously delivered an **ERP RAG code-assistant**, **Shopify↔ERP reconciliation automation** that saved ~**2 days/month**, and **NLP ETL/forecasting over SEC filings** used for real analysis.
-
----
 
 [![Website Badge](https://img.shields.io/badge/Website-IshaniArya-blue)](https://ishani-arya.netlify.app/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-IshaniArya-blue)](https://linkedin.com/in/ishani-arya) [![Behance Badge](https://img.shields.io/badge/Behance-ishani2202-blue)](https://www.behance.net/ishaniarya21)
 
