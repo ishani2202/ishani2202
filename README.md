@@ -24,6 +24,13 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Machin
 ---
 ## 💼 Experience
 
+### Data Science Graduate Research Project | Amazon Web Services | Baltimore, USA 
+*September 2025 – Present*  
+- Collaborating with the AWS ML/AI team on large-scale data and machine learning initiatives, focusing on designing automated 
+pipelines and deploying scalable ML models in a cloud environment  
+
+---
+
 ### ML Intern (Business Systems) | Alo | San Francisco, USA  
 *June 2025 – August 2025*  
 - Designed and automated large-scale ML pipelines (Python, SQL, Spark, BigQuery) for transaction reconciliation, including classification and ranking models to detect refund/remittance mismatches. Automated nightly jobs, **saving ~2 days/month** at close.  
