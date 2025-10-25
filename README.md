@@ -38,7 +38,7 @@ pipelines and deploying scalable ML models in a cloud environment
 
 ---
 
-### Research Assistant: Data Science | Johns Hopkins University | Baltimore, USA  
+### Data Scientist | Johns Hopkins University | Baltimore, USA  
 *November 2024 – Present*  
 - Built an end-to-end **NLP-focused ETL** pipeline in Python & Stata for analyzing unstructured **SEC filings (10-K & 10-Q)** from BDCs.  
 - Transformed **2M+ rows** of financial text into machine-readable features via wrangling, regex classification, and **predictive modeling**, plus **ARIMA**-based time-series forecasting.
